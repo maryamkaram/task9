@@ -1,0 +1,17 @@
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+
+}
+
+p {
+    font-size: 35px;
+}
+
+.quote button {
+    transition: all .5s;
+}
+
+.quote button:hover {
+    background-color: rgb(205, 177, 92);
+}
